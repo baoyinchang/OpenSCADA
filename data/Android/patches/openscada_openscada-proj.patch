@@ -1,8 +1,0 @@
---- data/openscada-proj.in~	2018-02-22 15:41:19.043102014 +0200
-+++ data/openscada-proj.in	2018-02-22 15:43:43.026932308 +0200
-@@ -1,4 +1,4 @@
--#!/bin/sh
-+#!/system/bin/sh
- 
- argHelp()
- {
